@@ -5,6 +5,8 @@
   "dependencies": {
     "@babel/core": "7.1.0",
     "@svgr/webpack": "2.4.1",
+    "anujs": "^1.4.9",
+    "axios": "^0.18.0",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "9.0.0",
     "babel-jest": "23.6.0",
@@ -106,5 +108,10 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "es3ify-loader": "^0.2.0",
+    "es3ify-webpack-plugin": "0.0.1",
+    "uglifyjs-webpack-plugin": "^2.0.1"
   }
 }

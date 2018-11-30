@@ -1,0 +1,10 @@
+.form-input{
+    min-width:240px;
+    height: 30px;
+    line-height: 28px !important;
+    padding: 0;
+    padding-left: 12px;
+    box-sizing: border-box;
+    border: 1px solid #a9b3bb;
+    border-radius: 2px; 
+}
